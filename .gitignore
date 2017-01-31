@@ -4,3 +4,4 @@ app/**/*.js
 app/**/*.map
 node_modules
 jspm_packages
+.vscode/settings.json
