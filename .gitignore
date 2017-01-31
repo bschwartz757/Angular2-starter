@@ -1,0 +1,6 @@
+typings
+app/**/*.js
+*.map
+app/**/*.map
+node_modules
+jspm_packages
